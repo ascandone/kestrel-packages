@@ -2,9 +2,9 @@
   "kestrel_core": {
     "name": "kestrel_core",
     "description": "The Kestrel standard library",
-    "author": "ascandone",
-    "latestVersion": "0.0.1",
-    "tags": []
+    "tags": [],
+    "latestVersion": "0.0.2",
+    "author": "ascandone"
   },
   "kestrel_json": {
     "name": "kestrel_json",
