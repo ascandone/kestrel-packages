@@ -1,9 +1,0 @@
-{
-  "versions": {
-    "0.0.1": {
-      "dependencies": {
-        "kestrel_core": "0.0.1"
-      }
-    }
-  }
-}
